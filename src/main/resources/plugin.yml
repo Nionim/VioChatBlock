@@ -1,0 +1,16 @@
+name: ChatBlock
+version: '${project.version}'
+main: delta.cion.ChatBlock
+api-version: '1.18'
+load: STARTUP
+author: "Carde2"
+description: "For: Project~Violette"
+website: https://discord.gg/MEBkvJbe4P
+commands:
+  cbreload:
+    description: reload data
+permissions:
+  cb.bypass:
+    description: bypass chat cooldown
+  cb.reload:
+    description: reload data perm

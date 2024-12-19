@@ -1,0 +1,17 @@
+# Show debug messages
+Debug-Mode: false
+
+# Example: 150 - 150 seconds
+Cooldown: 60
+
+Messages:
+  Reload-Success: "&aConfiguration reload success!"
+  No-Permissions: "&cU don`t have perms for that!"
+
+  # %s - Example: 1 minute/1 минута
+  # %s - Time and unit of time (second, minute, hour, day)
+  Cooldown-MSG: "&cSorry, but chat available only for players who played %s"
+  sec: "seconds"
+  min: "minutes"
+  hour: "hours"
+  day: "days"
