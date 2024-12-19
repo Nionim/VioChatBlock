@@ -38,7 +38,7 @@ Messages:
 
 <p>Все мои проекты распостраняются абсолютно бесплатно, единственный мой способ монетизации - Это Boosty, который является необязательным для доступа к моему творчеству.</p>
 
-<p>Я не поддерживаю агрессивное/оскорбительное продвижение своего контента ради денег. Я не поддерживаю и считаю неприемлимым способ продвижения данного человека - [ТГК - TMRTRSV](https://t.me/tmrtrsv_ch)</p>
+<p>Я не поддерживаю агрессивное/оскорбительное продвижение своего контента ради денег. Я не поддерживаю и считаю неприемлимым способ продвижения данного человека -> ТГК - TMRTRSV -> https://t.me/tmrtrsv_ch</p>
 
 <p>Будьте добрее! :3</p>
 
@@ -52,7 +52,7 @@ Messages:
 
 <p>All my projects are distributed absolutely free of charge, my only way of monetization is Boosty, which is optional to access my work.</p>
 
-<p>I do not support aggressive promotion of content created ONLY for money. I do not support this person's method of promotion -> [TG Channel - TMRTRSV](https://t.me/tmrtrsv_ch)</p>
+<p>I do not support aggressive promotion of content created ONLY for money. I do not support this person's method of promotion -> TG Channel - TMRTRSV -> https://t.me/tmrtrsv_ch</p>
 
 <p>Be kinder! :3</p>
 
