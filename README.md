@@ -36,7 +36,7 @@ Messages:
 
 <p>Данный плагин создан чисто по угару, ради шутки над человеком, чьё творчество кажется мне мягко говоря неприемлимым или оскорбительным для людей, которые дествительно стараются стать лучше, продвигаться в коде и просто эволюционировать.</p>
 
-<p>Все мои проекты распостраняются абсолютно бесплатно, единственный мой способ монетизации - Это [Boosty](https://boosty.to/nionim), который является необязательным для доступа к моему творчеству.</p>
+<p>Все мои проекты распостраняются абсолютно бесплатно, единственный мой способ монетизации - Это Boosty, который является необязательным для доступа к моему творчеству.</p>
 
 <p>Я не поддерживаю агрессивное/оскорбительное продвижение своего контента ради денег. Я не поддерживаю и считаю неприемлимым способ продвижения данного человека - [ТГК - TMRTRSV](https://t.me/tmrtrsv_ch)</p>
 
@@ -50,7 +50,7 @@ Messages:
 
 <p>This plugin is purely for fun, for the sake of making fun of someone whose work I find mildly unacceptable or insulting to people who are really trying to get better, advance in code, and just evolve.</p>
 
-<p>All my projects are distributed absolutely free of charge, my only way of monetization is [Boosty](https://boosty.to/nionim), which is optional to access my work.</p>
+<p>All my projects are distributed absolutely free of charge, my only way of monetization is Boosty, which is optional to access my work.</p>
 
 <p>I do not support aggressive promotion of content created ONLY for money. I do not support this person's method of promotion -> [TG Channel - TMRTRSV](https://t.me/tmrtrsv_ch)</p>
 
