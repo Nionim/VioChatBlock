@@ -57,6 +57,5 @@ Messages:
 <p>Be kinder! :3</p>
 
 ### REPORT BUGS ONLY IN [DISCORD](https://discord.gg/MEBkvJbe4P)!!!
-<CENTER>
-  [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/plugin/viochatblock)
-</CENTER>
+
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/plugin/viochatblock)
